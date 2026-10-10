@@ -1,5 +1,5 @@
 # HR Attendance Dashboard
-![Dashboard] (images/attendance_dashboard.png)
+![Dashboard](images/attendance_dashboard.png)
 An Excel dashboard tracking employee attendance by department.
 
 ## What it shows
