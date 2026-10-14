@@ -1,5 +1,5 @@
 # Personal Budget Tracker
-
+!Dashboard[personal_budget.png]
 An Excel tracker for monthly income, expenses, and remaining budget.
 
 ## What it does
