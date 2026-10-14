@@ -1,5 +1,5 @@
 # Sales Dashboard
-
+![Dashboard](sales_dashboard)
 An Excel sales dashboard built on bike-buyer data, with pivot tables driving the visuals.
 
 ## What it shows
