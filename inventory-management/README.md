@@ -1,5 +1,5 @@
 # Inventory Management System
-![Dashboard](images/inventory_management.png)
+![Dashboard](IMAGES/inventory_management.png)
 An Excel-based inventory system: products, transactions, stock levels, and reporting in one workbook.
 
 ## What it does
