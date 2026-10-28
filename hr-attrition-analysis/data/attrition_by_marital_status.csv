@@ -1,0 +1,4 @@
+marital_status,n,leavers,attrition_rate_pct
+Single,470,120,25.53
+Married,673,84,12.48
+Divorced,327,33,10.09

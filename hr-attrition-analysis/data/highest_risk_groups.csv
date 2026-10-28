@@ -1,0 +1,7 @@
+department,over_time,n,leavers,attrition_rate_pct,risk_rank
+Sales,Yes,128,48,37.50,1
+Human Resources,Yes,17,5,29.41,2
+Research & Development,Yes,271,74,27.31,3
+Human Resources,No,46,7,15.22,4
+Sales,No,318,44,13.84,5
+Research & Development,No,690,59,8.55,6
