@@ -60,7 +60,9 @@ See `dax.md`. The measures you will create:
 
 ## What you will see when you build it
 
-No screenshots or result figures are included in this kit (nothing here was rendered in Power BI). What you should expect once built: the KPI cards show real Superstore totals (2015–2018 sales total ≈ $2.30M), the region bars show West as the largest region, and the monthly line shows the familiar November/December seasonal peaks. If your totals are wildly different, re-check the Power Query junk-row filter — the 806 embedded header rows are the usual culprit.
+![Sales Performance dashboard](dashboard.png)
+
+What you should expect once built: the KPI cards show real Superstore totals (2015–2018 sales total ≈ $2.30M), the region bars show West as the largest region, and the monthly line shows the familiar November/December seasonal peaks. If your totals are wildly different, re-check the Power Query junk-row filter — the 806 embedded header rows are the usual culprit.
 
 ## How to build it
 
