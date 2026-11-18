@@ -55,7 +55,9 @@ See `dax.md`. The measures you will create:
 
 ## What you will see when you build it
 
-No screenshots or result figures are included in this kit (nothing here was rendered in Power BI). What you should expect: with the full date range selected, the United States and Brazil show the largest absolute case counts, while cases *per 100k* reorder the ranking (small-population countries rank higher than their absolute counts suggest) — that contrast is the reason the per-100k measure exists. The map needs an internet connection (Power BI geocodes through Bing Maps); if a country does not shade, check the Data Category setting in the build guide. If the map is blank, the bar chart still answers the same question.
+![COVID-19 / Population dashboard](dashboard.png)
+
+What you should expect: with the full date range selected, the United States and Brazil show the largest absolute case counts, while cases *per 100k* reorder the ranking (small-population countries rank higher than their absolute counts suggest) — that contrast is the reason the per-100k measure exists. The map needs an internet connection (Power BI geocodes through Bing Maps); if a country does not shade, check the Data Category setting in the build guide. If the map is blank, the bar chart still answers the same question.
 
 ## How to build it
 
