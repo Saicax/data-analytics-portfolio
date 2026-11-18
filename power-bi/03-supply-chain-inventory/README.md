@@ -56,7 +56,9 @@ See `dax.md`. The measures you will create:
 
 ## What you will see when you build it
 
-No screenshots or result figures are included in this kit (nothing here was rendered in Power BI). What you should expect: WH-03 (Vancouver) and WH-07 (Montreal) flagged in every month, the other locations mostly OK, and the ranking chart showing those two at 100% versus 4–12% for the rest. If every location shows 100%, check that the relationship runs Locations → Inventory (not the reverse) and that StockLevel and ReorderPoint are numbers, not text.
+![Supply Chain / Inventory dashboard](dashboard.png)
+
+What you should expect: WH-03 (Vancouver) and WH-07 (Montreal) flagged in every month, the other locations mostly OK, and the ranking chart showing those two at 100% versus 4–12% for the rest. If every location shows 100%, check that the relationship runs Locations → Inventory (not the reverse) and that StockLevel and ReorderPoint are numbers, not text.
 
 ## How to build it
 
