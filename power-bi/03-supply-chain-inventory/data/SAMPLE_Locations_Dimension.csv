@@ -1,0 +1,9 @@
+LocationID,LocationName,City,Region,CapacityUnits
+WH-01,Warehouse 01,Edmonton,West,15000
+WH-02,Warehouse 02,Calgary,West,12000
+WH-03,Warehouse 03,Vancouver,West,18000
+WH-04,Warehouse 04,Winnipeg,Prairies,9000
+WH-05,Warehouse 05,Saskatoon,Prairies,7000
+WH-06,Warehouse 06,Toronto,East,20000
+WH-07,Warehouse 07,Montreal,East,16000
+WH-08,Warehouse 08,Halifax,East,8000
