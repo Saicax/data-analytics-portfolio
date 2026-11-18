@@ -54,7 +54,9 @@ The 20% rule lives in exactly one place — the `MoM Flag` measure — so changi
 
 ## What you will see when you build it
 
-No screenshots or result figures are included in this kit (nothing here was rendered in Power BI). What you should expect: the trend lines show Salaries dominating total spend, Rent flat, and visible spikes in Marketing (Mar 2025, Nov 2025) and Travel (Jul 2025). The flagged table should list the jumps named above. If your flagged table is empty, check that `Previous Month Spend` uses DATEADD on the Date column and that Date is a Date type, not text.
+![Finance / Budget dashboard](dashboard.png)
+
+What you should expect: the trend lines show Salaries dominating total spend, Rent flat, and visible spikes in Marketing (Mar 2025, Nov 2025) and Travel (Jul 2025). The flagged table should list the jumps named above. If your flagged table is empty, check that `Previous Month Spend` uses DATEADD on the Date column and that Date is a Date type, not text.
 
 ## How to build it
 
