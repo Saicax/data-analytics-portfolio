@@ -2,6 +2,8 @@
 
 > **Finished dashboard included:** `Capstone_Where_Are_We_Losing_Money.pbix` — open it in Power BI Desktop. The kit below (prepared data, documented cleaning steps, data model, written-out DAX measures, click-by-click build guide, leadership presentation script) shows how it was built.
 
+![Capstone dashboard](dashboard.png)
+
 ## Step 0 — The business question FIRST (before touching any data)
 
 > **"Where are we losing money?"**
